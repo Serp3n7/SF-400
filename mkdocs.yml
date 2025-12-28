@@ -1,0 +1,59 @@
+site_name: 🥑 SmartNutriScale
+site_url: https://serp3n7.github.io/SF-400
+repo_url: https://github.com/Serp3n7/SF-400
+repo_name: Serp3n7/SF-400
+
+theme:
+  name: material
+  palette: 
+    # Light Mode
+    - scheme: default
+      primary: teal
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark Mode
+    - scheme: slate
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfencessite_name: 🥑 SmartNutriScale
+site_url: https://serp3n7.github.io/SF-400
+repo_url: https://github.com/Serp3n7/SF-400
+repo_name: Serp3n7/SF-400
+
+theme:
+  name: material
+  palette: 
+    # Light Mode
+    - scheme: default
+      primary: teal
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark Mode
+    - scheme: slate
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
